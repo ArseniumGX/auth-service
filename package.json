@@ -1,0 +1,10 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "Serviço de autenticação (login e logout)",
+  "main": "main.js",
+  "repository": "git@github.com:ArseniumGX/auth-service.git",
+  "author": "José Pereira Macedo <arseniumgx@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
